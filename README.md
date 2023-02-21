@@ -31,7 +31,7 @@
 - using Dense softmax activation as output 
 - summary of the model 
 
-img](/model.png)
+![img](/model.png)
 
 - compile using 'adam' optimizer 
 - set tensorboard and early stopping for callbacks and test the model
