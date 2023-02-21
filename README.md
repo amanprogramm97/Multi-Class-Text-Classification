@@ -30,6 +30,7 @@
 - using LSTM and dropout for hidden layer, set 2 hidden layer 
 - using Dense softmax activation as output 
 - summary of the model 
+
 img](/model.png)
 
 - compile using 'adam' optimizer 
@@ -38,6 +39,7 @@ img](/model.png)
 
 ## Model analysis
 - plot the model result 
+
  ![img](/accuracy.png)
  ![img](/loss.png)
  
@@ -46,13 +48,16 @@ img](/model.png)
  predict the model and test the accuracy
  
  Classification report 
+ 
  ![img](/classification_report.png)
  
  Confusion matrix
+ 
  ![img](/confusion_matrix.png)
  
  Acuracy score and f1_score
+ 
  ![img](/f1_score.png)
  
- # Aknowledgement
+ # Acknowledgement
  - [susanli2016](https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv)
