@@ -29,7 +29,8 @@
 - add embadding as input
 - using LSTM and dropout for hidden layer, set 2 hidden layer 
 - using Dense softmax activation as output 
-- summary of the model ![img](/model.png)
+- summary of the model 
+img](/model.png)
 
 - compile using 'adam' optimizer 
 - set tensorboard and early stopping for callbacks and test the model
@@ -41,17 +42,17 @@
  ![img](/loss.png)
  
 
-## model prediction 
- - predict the model and test the accuracy
+## Model prediction 
+ predict the model and test the accuracy
  
- classification report 
- - ![img](/classification_report.png)
+ Classification report 
+ ![img](/classification_report.png)
  
- confusion matrix
- - ![img](/confusion_matrix.png)
+ Confusion matrix
+ ![img](/confusion_matrix.png)
  
- accuracy score and f1_score
- - ![img](/f1_score.png)
+ Acuracy score and f1_score
+ ![img](/f1_score.png)
  
- 
+ # Aknowledgement
  - [susanli2016](https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv)
